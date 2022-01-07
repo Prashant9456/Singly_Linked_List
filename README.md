@@ -1,2 +1,2 @@
-# Singly_Linked_List
+# Linked_Node
 Whole_Opration-Length,InsertFirst,InsertLast,Insert,DeleteFirst,DeleteLast,DeletePosition,GetMiddeleNode,GetNthNode,RemoveDuplicate,Display
